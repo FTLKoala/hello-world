@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello Gitters,
+
+I'm FTLKoala but I'm not really FTL.
